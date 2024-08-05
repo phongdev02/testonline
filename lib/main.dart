@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_ui/ui/menu.dart' as menu_ui;
-import 'package:flutter_ui/ui/home.dart' as home_ui;
+import 'package:testonline/ui/menu.dart' as menu_ui;
+import 'package:testonline/ui/home.dart' as home_ui;
 
 void main() {
   runApp(const MyApp());

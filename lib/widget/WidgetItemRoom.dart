@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:flutter_ui/model/room.dart';
+import 'package:testonline/model/room.dart';
 import "package:flutter/material.dart";
 
 Widget itemRoom(room item) {

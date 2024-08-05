@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_ui/const.dart';
-import 'package:flutter_ui/widget/WidgetItemCategory.dart';
-import 'package:flutter_ui/model/room.dart';
-import 'package:flutter_ui/widget/WidgetItemRoom.dart';
+import 'package:testonline/const.dart';
+import 'package:testonline/widget/WidgetItemCategory.dart';
+import 'package:testonline/model/room.dart';
+import 'package:testonline/widget/WidgetItemRoom.dart';
 
 class HomeWidget extends StatefulWidget {
   const HomeWidget({super.key});
